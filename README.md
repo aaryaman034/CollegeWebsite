@@ -1,2 +1,2 @@
 # CollegeWebsite
-TailWind css
+Tailwind css , html , javascript to make responsive website
